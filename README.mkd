@@ -1,0 +1,8 @@
+Matt's Hacks
+============
+
+The eventual goal is to delete everything here and replace it with a
+better script in a better repository. Much of this was written a long
+time ago with the aim of quickly solving a problem.
+
+These are the scripts Gotham deserves, etc.
